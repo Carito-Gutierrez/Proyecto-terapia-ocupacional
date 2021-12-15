@@ -34,3 +34,16 @@
 .seccion2 {
   background: linear-gradient(90deg, #37a1df 50%, #f7f9f6 50%);
 }
+.rojo {
+  background-color: #e45353;
+  color: #fff4e3;
+}
+.rojo:hover {
+  background-color: #747474 !important;
+}
+.usuarios {
+  display: flex;
+  margin-top: 10rem;
+  margin-left: 10rem;
+  color: #f0f8ff;
+}
