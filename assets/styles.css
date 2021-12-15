@@ -41,9 +41,25 @@
 .rojo:hover {
   background-color: #747474 !important;
 }
+
 .usuarios {
   display: flex;
   margin-top: 10rem;
-  margin-left: 10rem;
+  margin-left: 15rem;
   color: #f0f8ff;
+}
+
+.column {
+  background: radial-gradient(circle, #f2d9f3 0%, #ebe5d5 100%);
+}
+
+.texto {
+  color: #370783;
+}
+.enviar {
+  color: #f0f8ff;
+}
+
+.enviar:hover {
+  background-color: #370783;
 }
